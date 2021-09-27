@@ -1,10 +1,4 @@
-- 👋 Hi, I’m @olwynread
-- 👀 I’m interested in ...
-- 🌱 I’m currently learning ...
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
-
-<!---
-olwynread/olwynread is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+- Hi, I’m Olwyn Read
+- I am studying for a MPhys from the Univerity of Manchester
+- I am researching the use of machine learning to analyse the electronic characteristics of graphene
+- Reach me at: olwyn.read@student.manchester.ac.uk
