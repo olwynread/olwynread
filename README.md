@@ -1,4 +1,4 @@
 - Hi, I’m Olwyn Read
-- I am studying for a MPhys from the Univerity of Manchester
-- I am researching the use of machine learning to analyse the electronic characteristics of graphene
+- I am a BSc physics graduate from the University of Manchester (UK)
+- In my final year I researched the use of machine learning to analyse the electronic characteristics of graphene
 - Reach me at: olwyn.read@gmail.com
